@@ -1,5 +1,7 @@
 # riot-devtools
 
+## 🚧 This repo is WIP 🚧
+
 ### License
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](https:///github.com/k-kuwahara/riot-devtools/LICENSE)
